@@ -5,12 +5,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <link rel="stylesheet" href="style.css">
-  <title>Lineas Telefonica</title>
+  <title>Lineas Telefonicas</title>
 </head>
 <body>
 <form action="conexion.php" method="POST"> 
   <section class="form-register">
-    <h4>Formulario de linea telefonicas</h4>
+    <h4>Formulario de lineas telefonicas</h4>
     <input class="controls" type="text" name="Nombre" id="Nombre" placeholder="Ingrese su Nombre">
     <input class="controls" type="text" name="Apellido" id="Apellido" placeholder="Ingrese su Apellido">
     <input class="controls" type="text" name="empresa" id="empresa" placeholder="Ingrese la empresa">
